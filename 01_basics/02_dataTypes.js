@@ -36,8 +36,8 @@ const middleName = 'Shah'; // Single Quotes
 const lastName = `Faisal`; // Back Tick
 
 console.log(typeof firstName);
+console.log(typeof middleName);
 console.log(typeof lastName);
-console.log(typeof nickName);
 
 
 //Boolean
