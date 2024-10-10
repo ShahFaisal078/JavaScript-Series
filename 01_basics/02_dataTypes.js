@@ -57,5 +57,5 @@ console.log(typeof b); // Object [It is a bug in JS]
 
 let num1 = 10n;  //number ends with n
 console.log(num1)
-console.log(typeof num1)
+console.log(typeof num1) //BigInt
 
