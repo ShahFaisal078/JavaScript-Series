@@ -31,9 +31,9 @@ console.log(typeof 20);  // number
 console.log(typeof num); // number
 
 // String
-const firstName = "Shah"; // Double Quotes
-const lastName = 'Faisal'; // Single Quotes
-const nickName = `Faisu`; // Back Tick
+const firstName = "Md"; // Double Quotes
+const middleName = 'Shah'; // Single Quotes
+const lastName = `Faisal`; // Back Tick
 
 console.log(typeof firstName);
 console.log(typeof lastName);
