@@ -2,6 +2,10 @@
 //WHy these wrapper object gets created -> To make our life more easier so that we can use of the properties and methods which are present in the wrapper object
 //We will be using ToString method to converts any data type to String, so where these methods coming from -> Wrapper objects 
 //for null and undefined wrapper object will not be created
+//.__proto__ it will give the wrapper object
+
+
+
 let num = 10;
 let str = 'String';
 let bigNum = 10n;
